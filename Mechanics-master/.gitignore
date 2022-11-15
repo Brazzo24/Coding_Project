@@ -1,0 +1,10 @@
+dist/
+build/
+.idea
+.vscode
+venv
+__pycache__/
+
+# truss structure solution
+result.svg
+result.txt

@@ -1,0 +1,6 @@
+import numpy as np
+from numpy.linalg import inv
+import sympy as smp
+from scipy.integrate import odeint
+from matplotlib import pyplot as plt
+from sympy import *
